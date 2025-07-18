@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "924383982316",
+    "project_id": "abou-hadid-app",
+    "storage_bucket": "abou-hadid-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924383982316:android:2263fe5b92e9957cccabc9",
+        "android_client_info": {
+          "package_name": "com.abu_hadid.abu_hadid_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924383982316-dlvb51i43lasmf6vk08fkfeob1l2pr30.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abu_hadid.abu_hadid_app",
+            "certificate_hash": "86780ca5a270227e860d54527953c3012a80ee78"
+          }
+        },
+        {
+          "client_id": "924383982316-36uof9ukp8n2elqboc9lrgu4utnd682d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWzy3yUaPIDozKgSKp4HeEvpK27Q7qHyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924383982316-36uof9ukp8n2elqboc9lrgu4utnd682d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
